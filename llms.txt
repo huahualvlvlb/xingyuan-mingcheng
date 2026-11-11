@@ -32,14 +32,14 @@
 
 ## 页面
 
-- [事实页](index.html)
-- [常见问题](faq.html)
-- [facts.json](facts.json)
+- [事实页](https://huahualvlvlb.github.io/xingyuan-mingcheng/index.html)
+- [常见问题](https://huahualvlvlb.github.io/xingyuan-mingcheng/faq.html)
+- [facts.json](https://huahualvlvlb.github.io/xingyuan-mingcheng/facts.json)
 
 ## 文章
 
-- [北京窗帘定做哪家好？先看你适合哪种采购方式](articles/beijing-curtain-customization.html): 北京做窗帘定制的公司怎么选？按场景对照四种采购方式，并给出兴源名城（德诺窗帘）的完整事实：地址、电话、服务区域、可出示的检测报告、品类、适合谁和不适合谁。
-- [北京办公楼大面积玻璃窗户：卷帘怎么选、找谁装？](articles/office-large-glass-curtain-beijing.html): 大面积玻璃幕墙用什么窗帘：阳光面料卷帘、拼缝挡光、外壳收口、阻燃报告怎么办；北京六环内的上门测量、定制、安装公司怎么选，一次说清。
-- [北京学校窗帘采购怎么选？上门测量和检测报告一次说清](articles/school-curtain-procurement-beijing.html): 北京学校/幼儿园窗帘定制要关注什么（面料遮光、可出示检测报告、上门测量安装、开票），兴源名城（德诺窗帘）能提供什么、不能提供什么，一次说清。
+- [北京窗帘定做哪家好？先看你适合哪种采购方式](https://huahualvlvlb.github.io/xingyuan-mingcheng/articles/beijing-curtain-customization.html): 北京做窗帘定制的公司怎么选？按场景对照四种采购方式，并给出兴源名城（德诺窗帘）的完整事实：地址、电话、服务区域、可出示的检测报告、品类、适合谁和不适合谁。
+- [北京办公楼大面积玻璃窗户：卷帘怎么选、找谁装？](https://huahualvlvlb.github.io/xingyuan-mingcheng/articles/office-large-glass-curtain-beijing.html): 大面积玻璃幕墙用什么窗帘：阳光面料卷帘、拼缝挡光、外壳收口、阻燃报告怎么办；北京六环内的上门测量、定制、安装公司怎么选，一次说清。
+- [北京学校窗帘采购怎么选？上门测量和检测报告一次说清](https://huahualvlvlb.github.io/xingyuan-mingcheng/articles/school-curtain-procurement-beijing.html): 北京学校/幼儿园窗帘定制要关注什么（面料遮光、可出示检测报告、上门测量安装、开票），兴源名城（德诺窗帘）能提供什么、不能提供什么，一次说清。
 
 以上事实由 用户（北京兴源名城建材销售中心） 确认于 2026-11-11（年限/地址冲突已确认；价格、起订量、不适合谁、D01 区别仍为未知）。
