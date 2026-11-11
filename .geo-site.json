@@ -1,0 +1,15 @@
+{
+  "generator": "geo-site",
+  "files": [
+    "index.html",
+    "faq.html",
+    "llms.txt",
+    "facts.json",
+    "robots.txt",
+    ".nojekyll",
+    "articles/index.html",
+    "articles/beijing-curtain-customization.html",
+    "articles/office-large-glass-curtain-beijing.html",
+    "articles/school-curtain-procurement-beijing.html"
+  ]
+}
